@@ -1,4 +1,4 @@
-﻿/* Reset default margin and padding */
+/* Reset default margin and padding */
 * {
   margin: 0;
   padding: 0;
@@ -164,5 +164,9 @@ footer {
 
   .carousel-content {
     max-width: 300px;
+  }
+
+  section h2 {
+    font-size: 1.5rem;
   }
 }
